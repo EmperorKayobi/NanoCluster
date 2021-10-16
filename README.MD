@@ -16,5 +16,4 @@ Custom 3D printed case for showcasing and practicality.
 - Sensors
 - 2x Fan
 ### CAD Files:
-- [Here](https://github.com/EmperorKayobi/NanoCluster/tree/main/CAD)
-You may note that the CAD-files will undergo further modification to account for errors.
+- [Here](https://github.com/EmperorKayobi/NanoCluster/tree/main/CAD): You may note that the CAD-files will undergo further modification to account for errors.

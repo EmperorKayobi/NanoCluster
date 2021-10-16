@@ -14,3 +14,5 @@ Custom 3D printed case for showcasing and practicality.
 - TFT Screen
 - Sensors
 - 2x Fan
+### CAD Files:
+-Here (https://github.com/EmperorKayobi/NanoCluster/tree/main/CAD)

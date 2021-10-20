@@ -1,10 +1,8 @@
 # NanoCluster
-![](https://github.com/EmperorKayobi/NanoCluster/blob/main/Update2.jpg)
-![](https://github.com/EmperorKayobi/NanoCluster/blob/main/Cluster2.jpg) 
-## Description:
 GPU-enabled Cluster for parallel programming w/CUDA.
 Custom 3D printed case for showcasing and practicality.
-
+![](https://github.com/EmperorKayobi/NanoCluster/blob/main/Cluster2.jpg) 
+![](https://github.com/EmperorKayobi/NanoCluster/blob/main/Update2.jpg)
 ### Hardware: 
 - 3x Jetson Nano 2GB
 - 4x Gigabit Ethernet Cable

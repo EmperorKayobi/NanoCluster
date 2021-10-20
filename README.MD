@@ -1,5 +1,5 @@
 # NanoCluster
-![](https://github.com/EmperorKayobi/NanoCluster/blob/main/Update1.jpg)
+![](https://github.com/EmperorKayobi/NanoCluster/blob/main/Update2.jpg)
 ![](https://github.com/EmperorKayobi/NanoCluster/blob/main/Cluster2.jpg) 
 ## Description:
 GPU-enabled Cluster for parallel programming w/CUDA.
